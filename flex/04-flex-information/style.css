@@ -29,13 +29,9 @@ img {
   display: flex;
   gap: 50px;
   margin-top: 35px;
-}
-.plants {
-  display:flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }
-.text {
+body {
   text-align: center;
 }
