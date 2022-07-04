@@ -25,3 +25,17 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+.header, .footer {
+  display: flex;
+}
+ul {
+  display: flex;
+  gap: 12px;
+  list-style: none;
+}
+.left-links {
+  margin-right: auto;
+}
+.right-links {
+  margin-left: auto;
+}
