@@ -32,3 +32,6 @@ body {
 .main-content {
   display: flex;
 }
+ul {
+  list-style: none;
+}
