@@ -28,6 +28,7 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  flex-shrink: 0;
 }
 
 .card {
@@ -41,7 +42,9 @@ body {
 }
 ul {
   list-style: none;
+  width: 100%;
 }
+
 a:link {
   text-decoration: none;
   color: white;
